@@ -28,9 +28,12 @@ font-size: xx-large;
 text-align: left;
 }
 
-h6{color: white;
-    font-size:xx-large}
-}
+h5{color: white;
+    font-size:xx-large;
+   text-align: left;
+  }
+h6{}
+
    
 title{
     font-size: xx-large;
