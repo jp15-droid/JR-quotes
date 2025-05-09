@@ -1,7 +1,3 @@
-body{
-  backround-color: black;
-
-}
 
 p{ color: rgb(75, 244, 250);
     text-align: center;
@@ -37,6 +33,8 @@ h6{
    backround-color:white;
    color:black
 }
+body{ backround-color: black;
+    }
 
    
 title{
