@@ -1,5 +1,5 @@
 body{
-   background-color:lightgrey;
+   background-color:black;
 background-position: center;
 }
 
@@ -35,6 +35,7 @@ h6{
    font-size:xx-large;
    text-align:middle;
    backround-color:white;
+   color:black
 }
 
    
