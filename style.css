@@ -1,6 +1,5 @@
-body{
-    backround-color:black;
-}
+body{ backround-color:lightgrey;
+    }
 p{ color: rgb(75, 244, 250);
     text-align: center;
 font-size: xx-large
@@ -9,7 +8,6 @@ h1{
     color: white;
 text-align: left;
 font-size:x-large;
-}
 }
 h2{color: white;
     text-align: left;
