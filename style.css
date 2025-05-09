@@ -1,5 +1,6 @@
-body{ backround-image:url('blob:https://web.whatsapp.com/6fa9bc5d-d7fe-4916-a8e2-a177dc08a6e4');
+body{ backround-image:url('../img/raulimg.jpg');
    backround-repeat:no-repeat;
+     backround-size:
     }
 
 p{ color: rgb(75, 244, 250);
