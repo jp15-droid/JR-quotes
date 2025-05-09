@@ -23,7 +23,7 @@ font-size: xx-large;
 text-align: left;
 }
 
-h5{color: white;
+h5{color: black;
     font-size:normal;
    text-align: left;
   }
@@ -33,7 +33,7 @@ h6{
    backround-color:white;
    color:black
 }
-body{ backround-color: black;
+body{color: red;
     }
 
    
