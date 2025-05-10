@@ -39,7 +39,10 @@ h6{
 form{
     backround-color: white;
 }
-
+.hero{ 
+   backround-image: url("mipic.jpg);
+}
+}
    
 title{
     font-size: xx-large;
