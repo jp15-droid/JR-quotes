@@ -40,7 +40,7 @@ form{
     backround-color: white;
 }
 .hero{ 
-   backround-image: url("mipic.jpg);
+   backround-image: url("../mipic.jpg);
 }
 }
    
