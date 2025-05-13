@@ -26,16 +26,17 @@ font-size: xx-large;
 text-align: left;
 }
 
-h5{color: rgb(75, 244, 250);
+h5{color: white;
     font-size:normal;
    text-align: left;
-   
+   backround-color: darkgrey;
   }
 h6{
    font-size:xx-large;
    text-align:middle;
-   backround-color:black;
+   backround-color:dark grey;
    color:rgb(75, 244, 250)
+   color: white;
 }
 
    
