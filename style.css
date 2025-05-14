@@ -37,6 +37,17 @@ h6{
    backround-color:dark grey;
    color:rgb(75, 244, 250)
    color: white;
+
+}
+.social-icons a {
+  font-size: 2rem;
+  margin: 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #0077b5; /* Change on hover */
 }
 
    
