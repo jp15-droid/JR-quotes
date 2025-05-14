@@ -1,6 +1,10 @@
 body{ 
-   backround-color: grey;
-    
+   body {
+    background-image: url('./mipic.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; 
+    background-repeat: repeat; 
     }
 
 p{ color: rgb(75, 244, 250);
