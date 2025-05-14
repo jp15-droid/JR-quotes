@@ -1,11 +1,7 @@
 body{ 
-   body {
+   
    backround-color: darkblue;
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover; 
-    background-repeat: repeat; 
-    }
+}
 
 p{ color: rgb(75, 244, 250);
     text-align: center;
