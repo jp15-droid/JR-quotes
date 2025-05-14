@@ -1,11 +1,9 @@
 body {
     background-color: darkblue;
-    
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-}
 
+}
+title{
+    font-size: xx-large}
 p {
     color: rgb(75, 244, 250);
     text-align: center;
@@ -71,4 +69,4 @@ h6 {
     background-color: darkgrey;
     padding: 20px; 
     border-radius: 5px;
-    color: white; 
+   
