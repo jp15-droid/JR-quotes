@@ -1,6 +1,6 @@
 body{ 
    body {
-    background-image: url('./mipic.jpg');
+   backround-color: darkblue;
     background-attachment: fixed;
     background-position: center;
     background-size: cover; 
@@ -30,17 +30,19 @@ font-size: xx-large;
 text-align: left;
 }
 
-h5{color: white;
-    font-size:normal;
-   text-align: left;
-   backround-color: darkgrey;
-  }
+h5 {
+    background-color: darkgrey;
+    color: white; 
+    padding: 10px;
+    border-radius: 5px; 
+   text-align: center;
+}
 h6{
-   font-size:xx-large;
-   text-align:middle;
-   backround-color:dark grey;
-   color:rgb(75, 244, 250)
-   color: white;
+   font-size: xx-large;
+   text-align: middle;
+   backround-color: dark grey;
+   color: rgb(75, 244, 250);
+   
 
 }
 .social-icons {
@@ -49,7 +51,7 @@ h6{
 }
 }
 
-.social-icons a:hover {
+.social-icons a: hover {
     color: E1306C; 
 }
 
