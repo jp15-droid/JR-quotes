@@ -1,6 +1,9 @@
 body {
-    background-color: darkblue;
-
+    background-image: url('./mipic.jpg'); 
+    background-attachment: fixed; 
+    background-position: center; 
+    background-size: cover; 
+    background-repeat: no-repeat; 
 }
 title{
     font-size: xx-large}
@@ -65,8 +68,11 @@ h6 {
 .social-icons a:hover {
     color: E1306C; 
 }
+.social-icons a:nth-child(2):hover {
+    color: 1877F2; 
+}
 .form-section {
     background-color: darkgrey;
-    padding: 20px; 
+    padding: 20px;}
     border-radius: 5px;
    
