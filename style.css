@@ -1,6 +1,6 @@
-body{ backround-image: (https://th.bing.com/th/id/R.c7a2561938f9cd1df2f654251c33cf6f?rik=TF7DcSzEHlGzZw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f3%2f2%2f6%2f621445.jpg&ehk=ndwt5O%2flLAJpQSPUsgAWgQpvZXkcFR1CQ6keYm%2b91ks%3d&risl=&pid=ImgRaw&r=0.jpg);
-   backround-repeat:repeat;
-     backround-size:
+body{ 
+   backround-color: grey;
+    
     }
 
 p{ color: rgb(75, 244, 250);
@@ -41,12 +41,12 @@ h6{
 }
 .social-icons {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .social-icons a {
-    color: white;
-    font-size: 2rem;
+    color: normal color;
+    font-size: medium;
     margin: 0 10px;
     text-decoration: none;
     transition: color 0.3s ease;
