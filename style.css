@@ -47,17 +47,10 @@ h6{
     text-align: center;
     margin-top: 40px;
 }
-
-.social-icons a {
-    color: normal color;
-    font-size: medium;
-    margin: 0 10px;
-    text-decoration: none;
-    transition: color 0.3s ease;
 }
 
 .social-icons a:hover {
-    color: #E1306C; /*white */
+    color: E1306C; 
 }
 
    
@@ -66,3 +59,11 @@ title{
     text-align: center;
 
 }
+.social-icons a {
+    color: white;
+    font-size: 3rem;
+    margin: 0 10px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
