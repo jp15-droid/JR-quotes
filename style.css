@@ -1,62 +1,61 @@
-body{ 
-   
-   backround-color: darkblue;
+body {
+    background-color: darkblue;
+    background-image: url(./mipic.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
 }
 
-p{ color: rgb(75, 244, 250);
+p {
+    color: rgb(75, 244, 250);
     text-align: center;
-font-size: large;
+    font-size: large;
 }
-h1{
+
+h1 {
     color: white;
-text-align: left;
-font-size:x-large;
-}
-h2{color: white;
     text-align: left;
-    font-size:x-large;
-   
+    font-size: x-large;
 }
-h3{color: white;
+
+h2 {
+    color: white;
     text-align: left;
-    font-size:x-large
+    font-size: x-large;
 }
-h4{ color: white;
-font-size: xx-large;
-text-align: left;
+
+h3 {
+    color: white;
+    text-align: left;
+    font-size: x-large;
+}
+
+h4 {
+    color: white;
+    font-size: xx-large;
+    text-align: left;
 }
 
 h5 {
     background-color: darkgrey;
-    color: white; 
+    color: white;
     padding: 10px;
-    border-radius: 5px; 
-   text-align: center;
+    border-radius: 5px;
+    text-align: center;
 }
-h6{
-   font-size: xx-large;
-   text-align: middle;
-   backround-color: dark grey;
-   color: rgb(75, 244, 250);
-   
 
+h6 {
+    font-size: xx-large;
+    text-align: center;
+    background-color: darkgrey;
+    color: rgb(75, 244, 250);
 }
+
 .social-icons {
     text-align: center;
     margin-top: 40px;
 }
-}
 
-.social-icons a: hover {
-    color: E1306C; 
-}
-
-   
-title{
-    font-size: xx-large;
-    text-align: center;
-
-}
 .social-icons a {
     color: white;
     font-size: 5rem;
@@ -65,3 +64,6 @@ title{
     transition: color 0.3s ease;
 }
 
+.social-icons a:hover {
+    color: E1306C; 
+}
