@@ -51,6 +51,7 @@ h6 {
     text-align: center;
     background-color: darkgrey;
     color: rgb(75, 244, 250);
+    
 }
 
 .social-icons {
@@ -75,5 +76,5 @@ h6 {
 .form-section {
     background-color: darkgrey;
     padding: 150px;}
-    border-radius: 150px;
+    border-redius: 20;
 }
