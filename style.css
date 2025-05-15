@@ -76,5 +76,8 @@ h6 {
 .form-section {
     background-color: darkgrey;
     padding: 150px;
-    border-redius: 100;
+    border-redius: 100px;
+}
+.social-icons a:nth-child(3):hover {
+    color: 25D366;
 }
