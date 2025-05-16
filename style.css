@@ -1,4 +1,5 @@
 body {
+    backround-color: grey;
     background-image: url('mipic.jpg'); 
     background-attachment: fixed; 
     background-position: center; 
