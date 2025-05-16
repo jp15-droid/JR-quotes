@@ -1,5 +1,5 @@
 body {
-    background-image: url('./mipic.jpg'); 
+    background-image: url('mipic.jpg'); 
     background-attachment: fixed; 
     background-position: center; 
     background-size: cover; 
